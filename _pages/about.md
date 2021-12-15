@@ -11,8 +11,6 @@ redirect_from:
 I love technology, music and sports. I aspire to be an entrepreneur in the field of Industrial Automation. My field of interest is Localization and Planning. 
 
 # My Education
-======
-
 **Master of Engineering (MEng) in Robotics, [University of Maryland](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
 <strong>coursework:</strong>
