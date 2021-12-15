@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rishabh Mukund"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rishabh Mukund"
 description              : &description "Interested in Automation, IOT, Robotics. \n Engineer, not just an Enginnering Graduate."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -209,42 +209,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
