@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Rishabh Mukund"
   avatar           : "profile.png"
-  bio              : "Interested in Automation, IOT and Robotics. \n Engineer, not just an Engineering Graduate"
-  location         : "College PArk, MD, USA"
+  bio              : "Engineer, not just an Engineering Graduate." + \n + "Industrial Automation | IOT | Robotics."
+  location         : "Hyattsville, MD, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
