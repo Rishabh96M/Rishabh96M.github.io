@@ -42,4 +42,4 @@ Here is the - [Github Repo](https://github.com/Rishabh96M/Word-Timer)
 -----
 * This is coded for STM Nucleo F302R8 Board. Navigation Bot code uses IMU and Position Encoders to go to the given list of points. It gets the angles from IMU Magnetometer and distance travelled is claculated by the Position Encoders.<br>
 
-Here is the - [Github Repo](https://github.com/Rishabh96M/Navigation-Bot
+Here is the - [Github Repo](https://github.com/Rishabh96M/Navigation-Bot)
