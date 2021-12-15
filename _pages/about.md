@@ -26,7 +26,6 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 <strong>CGPA:</strong> 3.7/4.0 <br>
 
 # Work Experience
------
 <img align="left" height="100" width="100" src="../images/Kwality-classic.png" style="padding-right:15px">
 
 Kwality's Solutions<br>
