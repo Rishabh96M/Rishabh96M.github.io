@@ -37,7 +37,7 @@ Here is the - [Github Repo](https://github.com/Rishabh96M/Word-Timer)
 
 -----
 
-**NAvigation-Bot**
+**Navigation-Bot**
 #### February 2018 - May 2028 | Bangalore, India
 
 -----
