@@ -47,6 +47,7 @@ University of Belgrade<br>
 **Summer Intern**
 #### June 2017 - July 2017 | Belgrade, Serbia<br>
 
+
 # Key Skills
 * <strong> Programming Languages: </strong> Python, C++, Matlab, Verilog, Java <br>
 * <strong> Operating Systems: </strong> Windows, Linux (Ubuntu) <br>
