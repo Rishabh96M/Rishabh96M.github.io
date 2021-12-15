@@ -87,11 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Rishabh Mukund"
-<<<<<<< HEAD
   avatar           : "profile.png"
-=======
-  avatar           : "profile.jpg"
->>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
   bio              : "Interested in Automation, IOT and Robotics. \n Engineer, not just an Engineering Graduate"
   location         : "College PArk, MD, USA"
   employer         :
