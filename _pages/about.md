@@ -14,7 +14,7 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 ======
 <img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
-**Master of Engineering (MEng) in Robotics, [University of Maryland-College Park](https://www.umd.edu/)**
+**Master of Engineering (MEng) in Robotics, [University of Maryland](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
 <strong>coursework:</strong>
 * <strong>Fall '21: </strong>Control Systems for Robtics, Introduction to Robot modelling, Software Development for Robotics <br>
