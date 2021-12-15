@@ -11,9 +11,15 @@ title                    : "Rishabh Mukund"
 title_separator          : "-"
 name                     : &name "Rishabh Mukund"
 description              : &description "Interested in Automation, IOT, Robotics. \n Engineer, not just an Enginnering Graduate."
+<<<<<<< HEAD
 url                      : https://rishabh96m.github.io 
 baseurl                  : ""
 repository               : "rishabh96m/rishabh96m.github.io"
+=======
+url                      : https://rishabh96m.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Rishabh96M/Rishabh96M.github.io"
+>>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +87,11 @@ analytics:
 # Site Author
 author:
   name             : "Rishabh Mukund"
+<<<<<<< HEAD
   avatar           : "profile.png"
+=======
+  avatar           : "profile.jpg"
+>>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
   bio              : "Interested in Automation, IOT and Robotics. \n Engineer, not just an Engineering Graduate"
   location         : "College PArk, MD, USA"
   employer         :
