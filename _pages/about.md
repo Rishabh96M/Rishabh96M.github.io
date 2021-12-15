@@ -16,8 +16,6 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 
 **Master of Engineering (MEng) in Robotics, [University of Maryland-College Park](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
-<br> <br>
-
 <strong>coursework:</strong>
 * <strong>Fall '21: </strong>Control Systems for Robtics, Introduction to Robot modelling, Software Development for Robotics <br>
 
@@ -30,18 +28,18 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 <strong>CGPA:</strong> 3.7/4.0 <br>
 
 # Work Experience
-======
+======<br>
 Kwality's Solutions<br>
-**CEO / Founder**<br>
+**CEO / Founder**
 #### Feb 2020 - Present | Bangalore, India<br><br>
 
 Sirena Technologies<br>
 **Research Engineer**<br>
-**Trainee Software Engineer**<br>
+**Trainee Software Engineer**
 #### Dec 2017 - Feb 2020 | Bangalore, India<br><br>
 
 University of Belgrade<br>
-**Summer Intern**<br>
+**Summer Intern**
 #### June 2017 - July 2017 | Belgrade, Serbia<br><br>
 
 # Key Skills
