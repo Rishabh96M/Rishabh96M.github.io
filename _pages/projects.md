@@ -11,9 +11,10 @@ author_profile: true
 #### December 2021 | Maryland, USA
 
 -----
-* Developed a swarm based automation for warehouses, The robots have a centalised control and will minimise the cost function to do the current task at hand by assigning the robots closest to the task <br>
+* Developed a swarm based automation for warehouses, The robots have a centalised control and will minimise the cost function to do the current task at hand by assigning the robots closest to the task<br>
 
 Here is the - [Github Repo](https://github.com/Rishabh96M/Swarm-Automation-for-Warehouses)
+
 -----
 
 **KUKA_WAII**
