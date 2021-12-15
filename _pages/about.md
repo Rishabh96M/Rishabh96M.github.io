@@ -21,7 +21,7 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 -----
 <img align="right" height="100" width="100" src="../images/mit.png" style="padding-left:15px">
 
-**Bachelor of Technology (B.Tech) in Electronics and Communications \n (Minor: SIgnal Processing), [Manipal Institute of Technology](https://manipal.edu/mit.html)**
+**Bachelor of Technology (B.Tech) in Electronics and Communications <br> (Minor: SIgnal Processing), [Manipal Institute of Technology](https://manipal.edu/mit.html)**
 #### August 2014 - May 2018 | Manipal, India
 <strong>CGPA:</strong> 3.7/4.0 <br>
 
