@@ -12,7 +12,7 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 
 # My Education
 ======
-<img align="left" height="100" width="100" src="../images/umd.png" style="padding-right:15px">
+<img align="left" height="100" src="../images/umd.png" style="padding-right:15px">
 
 **Master of Engineering (MEng) in Robotics, [University of Maryland](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
@@ -20,7 +20,7 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 * <strong>Fall '21: </strong>Control Systems for Robtics, Introduction to Robot modelling, Software Development for Robotics <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/mit.png" style="padding-right:15px">
+<img align="left" height="100" src="../images/mit.png" style="padding-right:15px">
 
 **Bachelor of Technology (B.Tech) in Electronics and Communications (Minor: SIgnal Processing), [Manipal Institute of Technology](https://manipal.edu/mit.html)**
 #### August 2014 - May 2018 | Manipal, India
