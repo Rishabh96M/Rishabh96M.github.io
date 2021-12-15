@@ -26,23 +26,23 @@ I love technology, music and sports. I aspire to be an entrepreneur in the field
 
 **Bachelor of Technology (B.Tech) in Electronics and Communications (Minor: SIgnal Processing), [Manipal Institute of Technology](https://manipal.edu/mit.html)**
 #### August 2014 - May 2018 | Manipal, India
-<br><>br>
+<br><br>
 <strong>CGPA:</strong> 3.7/4.0 <br>
 
 # Work Experience
 ======
-Kwality's Solutions
-**CEO / Founder*
-#### Feb 2020 - Present | Bangalore, India
+Kwality's Solutions<br>
+**CEO / Founder**<br>
+#### Feb 2020 - Present | Bangalore, India<br><br>
 
-Sirena Technologies
-**Research Engineer**
-**Trainee Software Engineer**
-#### Dec 2017 - Feb 2020 | Bangalore, India
+Sirena Technologies<br>
+**Research Engineer**<br>
+**Trainee Software Engineer**<br>
+#### Dec 2017 - Feb 2020 | Bangalore, India<br><br>
 
-University of Belgrade
-**Summer Intern**
-#### June 2017 - July 2017 | Belgrade, Serbia
+University of Belgrade<br>
+**Summer Intern**<br>
+#### June 2017 - July 2017 | Belgrade, Serbia<br><br>
 
 # Key Skills
 ======
