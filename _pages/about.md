@@ -11,22 +11,15 @@ redirect_from:
 I love technology, music and sports. I aspire to be an entrepreneur in the field of Industrial Automation. My field of interest is Localization and Planning. 
 
 # My Education
-<<<<<<< HEAD
 <img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
-=======
->>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
 **Master of Engineering (MEng) in Robotics, [University of Maryland](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
 <strong>coursework:</strong>
 * <strong>Fall '21: </strong>Control Systems for Robtics, Introduction to Robot modelling, Software Development for Robotics <br>
 
-<<<<<<< HEAD
 -----
 <img align="left" height="100" width="100" src="../images/mit.png" style="padding-right:15px">
-=======
-======<br>
->>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
 
 **Bachelor of Technology (B.Tech) in Electronics and Communications (Minor: SIgnal Processing), [Manipal Institute of Technology](https://manipal.edu/mit.html)**
 #### August 2014 - May 2018 | Manipal, India
@@ -40,19 +33,13 @@ Kwality's Solutions<br>
 **CEO / Founder**
 #### Feb 2020 - Present | Bangalore, India<br>
 
-<<<<<<< HEAD
 -----
 <img align="left" height="100" width="100" src="../images/sirena.jpeg" style="padding-right:15px">
 
-=======
-======<br>
->>>>>>> 05ef6a7f9571d7b176f93ca94719827849d73a16
 Sirena Technologies<br>
 **Research Engineer**<br>
 **Trainee Software Engineer**
 #### Dec 2017 - Feb 2020 | Bangalore, India<br>
-
-======<br>
 
 -----
 <img align="left" height="100" width="100" src="../images/ub.png" style="padding-right:15px">
